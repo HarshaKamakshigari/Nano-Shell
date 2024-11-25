@@ -78,7 +78,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## Author
-**Harsha Kamakshigari**  , ** T.Hanisha sai** ,**Vishnu sai priya** ,**Varshitha Tummala**
+**Harsha Kamakshigari**  ,**T.Hanisha sai** ,**Vishnu sai priya** ,**Varshitha Tummala**
 Connect on [Harsha](https://github.com/HarshaKamakshigari).
 Connect on [Vishnu Sai Priya](https://github.com/vishnusaipriya7).
 Connect on [Hanisha Sai](https://github.com/hani-sai).
