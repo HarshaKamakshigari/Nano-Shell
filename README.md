@@ -24,7 +24,7 @@ The **Custom Linux Shell** is a lightweight, educational project that replicates
 ## Getting Started
 
 ### Prerequisites
-- A Linux environment (e.g., Ubuntu, Fedora).
+- A Linux environment (e.g., Kali, Ubuntu, Fedora).
 - GCC (GNU Compiler Collection). Install it with:
   ```bash
   sudo apt update
